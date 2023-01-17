@@ -56,8 +56,6 @@ body{
     margin: 0 auto;
 }
 
-
-
 /* ==========COMPONENTS========== */
 
 .section {
@@ -109,6 +107,7 @@ body{
 .header-container {
     display: flex;
     align-items: center;
+    
 }
 
 .header-nav {
@@ -190,7 +189,6 @@ body{
  
 }
 
-
 .hero-title {
     max-width: 500px;
     font-size: 56px;
@@ -212,7 +210,6 @@ body{
     padding: 16px 32px;
     border: none;
 }
-
 
 .hero-btn:hover,
 .hero-btn:active,
@@ -273,7 +270,6 @@ body{
 
 .team-list {
     display: flex;
-    padding-bottom: 120px;
     justify-content: space-between;
 }
 
